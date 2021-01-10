@@ -1,5 +1,5 @@
 ### fastBoard.ai@github
-We are fastboard.ai, an independent research and development, organization developing tools and toolkits, for fun, and for use in different domains. We are based all over the world, and our focus is developing toolkits and platforms to enable and promote small businesses. We're interested and building stuff in these topics: gaming, personalization, search, advertising optimization, consumer modeling and targeted ad delivery, etc. Here are a few projects we are dealing with currently.
+We are fastboard.ai, an independent research and development, organization developing tools and toolkits, for fun, and for use in different domains. We are based all over the world, and our focus is developing toolkits and platforms to enable and promote small businesses. We're interested and building stuff in these topics: gaming, e-commerce (personalization, search, consumer modeling), advertising, shipping and delivery, food-delivery, etc. Here are a few projects we are dealing with currently.
 
 ![fastBoard](./fastboradaiposter.png)
 All the following projects are ongoing.
